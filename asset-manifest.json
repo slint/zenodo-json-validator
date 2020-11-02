@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zenodo-json-validator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/zenodo-json-validator/static/js/main.05619b79.chunk.js",
+    "main.js.map": "/zenodo-json-validator/static/js/main.05619b79.chunk.js.map",
+    "runtime-main.js": "/zenodo-json-validator/static/js/runtime-main.c076ea81.js",
+    "runtime-main.js.map": "/zenodo-json-validator/static/js/runtime-main.c076ea81.js.map",
+    "static/css/2.e1d0ca00.chunk.css": "/zenodo-json-validator/static/css/2.e1d0ca00.chunk.css",
+    "static/js/2.7843721f.chunk.js": "/zenodo-json-validator/static/js/2.7843721f.chunk.js",
+    "static/js/2.7843721f.chunk.js.map": "/zenodo-json-validator/static/js/2.7843721f.chunk.js.map",
+    "index.html": "/zenodo-json-validator/index.html",
+    "precache-manifest.3c7488c3cc2f692a38e6141dc0fc9960.js": "/zenodo-json-validator/precache-manifest.3c7488c3cc2f692a38e6141dc0fc9960.js",
+    "service-worker.js": "/zenodo-json-validator/service-worker.js",
+    "static/css/2.e1d0ca00.chunk.css.map": "/zenodo-json-validator/static/css/2.e1d0ca00.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/zenodo-json-validator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7843721f.chunk.js.LICENSE.txt": "/zenodo-json-validator/static/js/2.7843721f.chunk.js.LICENSE.txt",
+    "static/media/jsoneditor.css": "/zenodo-json-validator/static/media/jsoneditor-icons.2b9b4872.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c076ea81.js",
+    "static/css/2.e1d0ca00.chunk.css",
+    "static/js/2.7843721f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.05619b79.chunk.js"
+  ]
+}
